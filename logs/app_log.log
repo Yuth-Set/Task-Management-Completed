@@ -1,0 +1,564 @@
+[INFO ] 02-06-2017 12:10:19.810 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 12:10:19.811 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 12:10:19.811 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 12:11:14.310 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 12:11:14.311 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 12:11:14.311 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 12:11:24.137 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 02-06-2017 12:11:24.137 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 02-06-2017 12:11:24.137 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 02-06-2017 12:11:24.155 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 12:11:24.155 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 12:11:24.155 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 12:12:31.791 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 12:12:31.791 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 12:12:31.791 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 02-06-2017 12:12:35.135 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 12:12:35.135 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 12:12:35.135 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 12:54:38.680 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 12:54:38.680 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 12:54:38.680 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 12:54:57.739 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 12:54:57.739 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 12:54:57.740 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 12:55:06.189 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 12:55:06.190 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 12:55:06.190 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 12:55:31.279 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 12:55:31.279 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 12:55:31.279 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 12:55:42.357 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 12:55:42.357 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 12:55:42.357 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 13:42:40.052 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 13:42:40.052 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 13:42:40.052 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 13:42:46.111 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 13:42:46.111 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 13:42:46.111 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 13:43:18.325 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 13:43:18.325 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 13:43:18.325 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 13:43:18.331 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 13:43:18.331 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:18.331 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 13:43:24.103 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 13:43:24.103 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:24.103 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 13:43:26.123 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 13:43:26.124 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:26.124 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 13:43:28.039 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 13:43:28.039 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:28.039 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 13:43:31.928 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 13:43:31.928 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 13:43:31.928 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 13:43:33.717 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 02-06-2017 13:43:33.717 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 02-06-2017 13:43:33.717 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 02-06-2017 13:43:33.763 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 13:43:33.763 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 13:43:33.763 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 13:43:35.391 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 13:43:35.391 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 13:43:35.391 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 13:43:35.453 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 13:43:35.453 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 13:43:35.454 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 13:43:38.829 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 02-06-2017 13:43:38.830 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 02-06-2017 13:43:38.830 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 02-06-2017 13:43:38.878 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 13:43:38.879 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 13:43:38.879 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 13:43:44.897 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 13:43:44.897 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:44.897 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 13:43:48.231 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 13:43:48.231 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:48.231 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 13:43:50.086 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 13:43:50.086 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:50.086 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 13:43:57.759 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 13:43:57.759 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 13:43:57.759 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 13:44:29.941 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 13:44:29.941 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 13:44:29.941 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 13:44:32.630 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 13:44:32.631 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 13:44:32.631 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 15:19:43.878 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 02-06-2017 15:19:43.878 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 02-06-2017 15:19:43.878 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 02-06-2017 15:19:48.772 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 15:19:48.772 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 15:19:48.772 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 15:20:06.785 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 15:20:06.786 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 15:20:06.786 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 15:20:06.795 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 15:20:06.795 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:06.795 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 15:20:13.629 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 15:20:13.630 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:13.630 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 15:20:17.063 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 02-06-2017 15:20:17.064 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:17.064 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 02-06-2017 15:20:23.034 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 15:20:23.034 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:23.034 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 15:20:28.367 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 15:20:28.368 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:28.368 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 15:20:30.727 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 15:20:30.727 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 15:20:30.727 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 02-06-2017 15:40:41.961 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 15:40:41.962 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 15:40:41.962 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 15:40:46.498 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 15:40:46.499 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 15:40:46.499 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 15:41:44.350 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 15:41:44.351 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 15:41:44.351 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 15:41:48.334 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 02-06-2017 15:41:48.335 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 02-06-2017 15:41:48.335 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 02-06-2017 15:41:48.389 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 15:41:48.389 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 15:41:48.389 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 15:41:59.951 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 02-06-2017 15:41:59.951 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 02-06-2017 15:41:59.951 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 02-06-2017 15:42:00.027 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 15:42:00.028 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 15:42:00.028 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 15:42:01.383 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 02-06-2017 15:42:01.383 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 02-06-2017 15:42:01.383 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 02-06-2017 15:42:01.449 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 02-06-2017 15:42:01.449 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 02-06-2017 15:42:01.449 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 02-06-2017 15:42:14.351 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 15:42:14.351 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 15:42:14.351 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 15:42:35.205 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 15:42:35.205 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 15:42:35.205 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 15:42:35.211 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 15:42:35.211 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:35.211 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 15:42:46.141 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 15:42:46.141 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:46.141 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 15:42:47.989 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 15:42:47.989 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:47.989 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 15:42:50.119 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 15:42:50.119 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:50.119 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 15:42:51.822 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 15:42:51.822 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:51.822 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 15:42:57.456 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 15:42:57.456 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 15:42:57.456 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 15:43:02.540 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 15:43:02.541 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 15:43:02.541 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 15:43:05.343 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 02-06-2017 15:43:05.344 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 02-06-2017 15:43:05.344 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 02-06-2017 16:59:21.183 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 02-06-2017 16:59:21.183 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 02-06-2017 16:59:21.183 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 02-06-2017 16:59:33.821 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 02-06-2017 16:59:33.822 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 02-06-2017 16:59:33.822 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 02-06-2017 16:59:49.195 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 02-06-2017 16:59:49.197 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 02-06-2017 16:59:49.197 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 02-06-2017 16:59:49.209 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 16:59:49.209 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 16:59:49.209 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 16:59:59.870 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 02-06-2017 16:59:59.870 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 02-06-2017 16:59:59.870 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 02-06-2017 17:00:02.440 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 17:00:02.440 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 17:00:02.440 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 17:00:10.403 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 17:00:10.403 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 17:00:10.403 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 17:00:18.966 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 17:00:18.966 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 17:00:18.966 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 17:00:21.534 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 17:00:21.534 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 17:00:21.534 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 02-06-2017 17:02:14.463 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 17:02:14.463 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 17:02:14.463 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 17:02:21.669 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 17:02:21.669 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 17:02:21.669 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 17:02:37.076 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 17:02:37.076 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 17:02:37.076 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 17:02:43.658 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 02-06-2017 17:02:43.658 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 02-06-2017 17:02:43.658 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 02-06-2017 17:08:20.734 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 17:08:20.734 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 17:08:20.734 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 17:08:35.282 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 17:08:35.282 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 17:08:35.282 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 17:08:35.302 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 02-06-2017 17:08:35.302 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:35.302 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 02-06-2017 17:08:38.668 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 17:08:38.668 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:38.668 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 17:08:41.592 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 17:08:41.592 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:41.592 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 17:08:50.018 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 17:08:50.018 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:50.018 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 17:08:51.515 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 17:08:51.515 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:51.515 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 17:08:53.310 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 02-06-2017 17:08:53.310 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:53.310 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 02-06-2017 17:08:56.300 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 17:08:56.300 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 17:08:56.300 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 18:18:34.240 [http-nio-8080-exec-10] UserController - Info message
+[WARN ] 02-06-2017 18:18:34.240 [http-nio-8080-exec-10] UserController - Warn message
+[ERROR] 02-06-2017 18:18:34.240 [http-nio-8080-exec-10] UserController - Error message
+[INFO ] 02-06-2017 18:18:37.566 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 18:18:37.567 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 18:18:37.567 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 18:18:54.557 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 02-06-2017 18:18:54.558 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 02-06-2017 18:18:54.558 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 02-06-2017 18:18:54.562 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 18:18:54.562 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 18:18:54.562 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 18:19:09.325 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 02-06-2017 18:19:09.325 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 02-06-2017 18:19:09.325 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 02-06-2017 18:19:17.342 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 18:19:17.342 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 18:19:17.342 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 18:19:24.261 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 18:19:24.261 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 18:19:24.261 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 18:19:27.787 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 18:19:27.787 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 18:19:27.787 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 02-06-2017 18:21:51.735 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 18:21:51.735 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 18:21:51.735 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 18:41:10.536 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 18:41:10.539 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 18:41:10.540 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 18:41:14.550 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 02-06-2017 18:41:14.550 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 02-06-2017 18:41:14.550 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 02-06-2017 18:41:27.122 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 02-06-2017 18:41:27.122 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 02-06-2017 18:41:27.122 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 02-06-2017 18:41:27.132 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 18:41:27.132 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 18:41:27.132 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 18:41:31.437 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 18:41:31.437 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 18:41:31.438 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 18:41:35.586 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 18:41:35.586 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 18:41:35.586 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 18:41:39.041 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 18:41:39.041 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 18:41:39.041 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 18:41:55.838 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 02-06-2017 18:41:55.838 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 02-06-2017 18:41:55.838 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 02-06-2017 18:42:01.662 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 18:42:01.663 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:01.663 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 18:42:05.024 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 18:42:05.024 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:05.024 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 18:42:15.550 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 18:42:15.550 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:15.551 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 18:42:22.627 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 18:42:22.627 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:22.627 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 18:42:28.534 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 18:42:28.534 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:28.534 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 02-06-2017 18:42:37.595 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 02-06-2017 18:42:37.596 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:37.596 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 02-06-2017 18:42:41.819 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 02-06-2017 18:42:41.820 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:41.820 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 02-06-2017 18:42:44.402 [http-nio-8080-exec-1] TaskController - Info message
+[WARN ] 02-06-2017 18:42:44.403 [http-nio-8080-exec-1] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:44.403 [http-nio-8080-exec-1] TaskController - Error message
+[INFO ] 02-06-2017 18:42:50.422 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 18:42:50.423 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:50.423 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 18:42:52.991 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 18:42:52.991 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:52.991 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 18:42:55.710 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 18:42:55.710 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:55.710 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 18:42:57.730 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 02-06-2017 18:42:57.730 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 02-06-2017 18:42:57.730 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 02-06-2017 18:55:14.210 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 02-06-2017 18:55:14.211 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 02-06-2017 18:55:14.211 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 02-06-2017 18:55:18.318 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 02-06-2017 18:55:18.318 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 02-06-2017 18:55:18.318 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 02-06-2017 18:58:53.098 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 02-06-2017 18:58:53.098 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 02-06-2017 18:58:53.098 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 02-06-2017 18:58:55.931 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 02-06-2017 18:58:55.931 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 02-06-2017 18:58:55.931 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 02-06-2017 18:59:12.407 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 02-06-2017 18:59:12.407 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 02-06-2017 18:59:12.407 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 02-06-2017 18:59:12.416 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 02-06-2017 18:59:12.416 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 02-06-2017 18:59:12.417 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 02-06-2017 18:59:27.124 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 02-06-2017 18:59:27.125 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 02-06-2017 18:59:27.125 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 02-06-2017 18:59:28.999 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 02-06-2017 18:59:28.999 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 02-06-2017 18:59:29.000 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 02-06-2017 19:00:19.639 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 02-06-2017 19:00:19.640 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 02-06-2017 19:00:19.640 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 02-06-2017 19:00:19.644 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 02-06-2017 19:00:19.645 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 02-06-2017 19:00:19.645 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 02-06-2017 19:00:22.278 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 02-06-2017 19:00:22.278 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 02-06-2017 19:00:22.278 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 02-06-2017 19:00:24.490 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 02-06-2017 19:00:24.490 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 02-06-2017 19:00:24.490 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 02-06-2017 19:00:26.381 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 02-06-2017 19:00:26.381 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 02-06-2017 19:00:26.381 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 05-06-2017 08:13:15.366 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 05-06-2017 08:13:15.366 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 05-06-2017 08:13:15.367 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 05-06-2017 08:13:23.637 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 05-06-2017 08:13:23.637 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 05-06-2017 08:13:23.637 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 05-06-2017 08:19:01.188 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 05-06-2017 08:19:01.189 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 05-06-2017 08:19:01.189 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 05-06-2017 08:19:09.044 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 05-06-2017 08:19:09.044 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 05-06-2017 08:19:09.044 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 05-06-2017 08:19:10.931 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 05-06-2017 08:19:10.932 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 05-06-2017 08:19:10.932 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 05-06-2017 08:19:19.045 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 05-06-2017 08:19:19.045 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 05-06-2017 08:19:19.045 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 05-06-2017 08:19:19.053 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 05-06-2017 08:19:19.054 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:19.054 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 05-06-2017 08:19:21.619 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 05-06-2017 08:19:21.619 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:21.619 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 05-06-2017 08:19:22.404 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 05-06-2017 08:19:22.404 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:22.404 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 05-06-2017 08:19:24.803 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 05-06-2017 08:19:24.804 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:24.804 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 05-06-2017 08:19:30.443 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 05-06-2017 08:19:30.444 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:30.444 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 05-06-2017 08:19:33.996 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 05-06-2017 08:19:33.996 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:33.996 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 05-06-2017 08:19:40.217 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 05-06-2017 08:19:40.217 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:40.217 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 05-06-2017 08:19:45.362 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 05-06-2017 08:19:45.363 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:45.363 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 05-06-2017 08:19:50.441 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 05-06-2017 08:19:50.441 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:50.441 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 05-06-2017 08:19:55.266 [http-nio-8080-exec-7] TaskController - Info message
+[WARN ] 05-06-2017 08:19:55.266 [http-nio-8080-exec-7] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:55.266 [http-nio-8080-exec-7] TaskController - Error message
+[INFO ] 05-06-2017 08:19:56.830 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 05-06-2017 08:19:56.831 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:56.831 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 05-06-2017 08:19:58.025 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 05-06-2017 08:19:58.025 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:58.025 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 05-06-2017 08:19:58.882 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 05-06-2017 08:19:58.882 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 05-06-2017 08:19:58.882 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 05-06-2017 08:20:10.866 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 05-06-2017 08:20:10.866 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 05-06-2017 08:20:10.866 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 06-06-2017 08:35:52.276 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:35:52.276 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:35:52.276 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:37:37.583 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:37:37.584 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:37:37.584 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:40:57.544 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:40:57.544 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:40:57.545 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:42:10.438 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:42:10.438 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:42:10.438 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:42:10.764 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 06-06-2017 08:42:10.765 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 06-06-2017 08:42:10.765 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 06-06-2017 08:42:12.923 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 06-06-2017 08:42:12.923 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 06-06-2017 08:42:12.923 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 06-06-2017 08:42:13.027 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 06-06-2017 08:42:13.028 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 06-06-2017 08:42:13.028 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 06-06-2017 08:42:13.714 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 06-06-2017 08:42:13.714 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 06-06-2017 08:42:13.714 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 06-06-2017 08:42:13.799 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 06-06-2017 08:42:13.799 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 06-06-2017 08:42:13.799 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.092 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.093 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.093 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.179 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.179 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.180 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.291 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.292 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.292 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.379 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.379 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.379 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.482 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.482 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.482 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.549 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.549 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.549 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.660 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.661 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.661 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.763 [http-nio-8080-exec-10] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.763 [http-nio-8080-exec-10] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.763 [http-nio-8080-exec-10] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.833 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.834 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.834 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 08:42:14.974 [http-nio-8080-exec-3] UserController - Info message
+[WARN ] 06-06-2017 08:42:14.974 [http-nio-8080-exec-3] UserController - Warn message
+[ERROR] 06-06-2017 08:42:14.974 [http-nio-8080-exec-3] UserController - Error message
+[INFO ] 06-06-2017 08:42:15.029 [http-nio-8080-exec-4] UserController - Info message
+[WARN ] 06-06-2017 08:42:15.031 [http-nio-8080-exec-4] UserController - Warn message
+[ERROR] 06-06-2017 08:42:15.031 [http-nio-8080-exec-4] UserController - Error message
+[INFO ] 06-06-2017 08:42:15.184 [http-nio-8080-exec-6] UserController - Info message
+[WARN ] 06-06-2017 08:42:15.184 [http-nio-8080-exec-6] UserController - Warn message
+[ERROR] 06-06-2017 08:42:15.185 [http-nio-8080-exec-6] UserController - Error message
+[INFO ] 06-06-2017 08:42:15.188 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 06-06-2017 08:42:15.198 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 06-06-2017 08:42:15.198 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 06-06-2017 08:42:15.323 [http-nio-8080-exec-8] UserController - Info message
+[WARN ] 06-06-2017 08:42:15.324 [http-nio-8080-exec-8] UserController - Warn message
+[ERROR] 06-06-2017 08:42:15.324 [http-nio-8080-exec-8] UserController - Error message
+[INFO ] 06-06-2017 08:42:20.179 [http-nio-8080-exec-10] UserController - Info message
+[WARN ] 06-06-2017 08:42:20.179 [http-nio-8080-exec-10] UserController - Warn message
+[ERROR] 06-06-2017 08:42:20.179 [http-nio-8080-exec-10] UserController - Error message
+[INFO ] 06-06-2017 08:42:20.249 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 06-06-2017 08:42:20.249 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 06-06-2017 08:42:20.249 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 06-06-2017 09:17:22.288 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 09:17:22.288 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 09:17:22.288 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 09:17:23.207 [http-nio-8080-exec-7] UserController - Info message
+[WARN ] 06-06-2017 09:17:23.207 [http-nio-8080-exec-7] UserController - Warn message
+[ERROR] 06-06-2017 09:17:23.207 [http-nio-8080-exec-7] UserController - Error message
+[INFO ] 06-06-2017 09:17:31.329 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 06-06-2017 09:17:31.329 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 06-06-2017 09:17:31.329 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 06-06-2017 09:17:31.555 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 06-06-2017 09:17:31.556 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 06-06-2017 09:17:31.556 [http-nio-8080-exec-2] UserController - Error message
+[INFO ] 06-06-2017 09:17:35.155 [http-nio-8080-exec-1] UserController - Info message
+[WARN ] 06-06-2017 09:17:35.156 [http-nio-8080-exec-1] UserController - Warn message
+[ERROR] 06-06-2017 09:17:35.156 [http-nio-8080-exec-1] UserController - Error message
+[INFO ] 06-06-2017 09:17:35.737 [http-nio-8080-exec-9] UserController - Info message
+[WARN ] 06-06-2017 09:17:35.737 [http-nio-8080-exec-9] UserController - Warn message
+[ERROR] 06-06-2017 09:17:35.737 [http-nio-8080-exec-9] UserController - Error message
+[INFO ] 06-06-2017 09:17:42.255 [http-nio-8080-exec-5] UserController - Info message
+[WARN ] 06-06-2017 09:17:42.255 [http-nio-8080-exec-5] UserController - Warn message
+[ERROR] 06-06-2017 09:17:42.256 [http-nio-8080-exec-5] UserController - Error message
+[INFO ] 06-06-2017 09:17:42.265 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 06-06-2017 09:17:42.265 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 06-06-2017 09:17:42.266 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 06-06-2017 09:17:59.340 [http-nio-8080-exec-8] TaskController - Info message
+[WARN ] 06-06-2017 09:17:59.340 [http-nio-8080-exec-8] TaskController - Warn message
+[ERROR] 06-06-2017 09:17:59.341 [http-nio-8080-exec-8] TaskController - Error message
+[INFO ] 06-06-2017 09:18:02.292 [http-nio-8080-exec-5] TaskController - Info message
+[WARN ] 06-06-2017 09:18:02.292 [http-nio-8080-exec-5] TaskController - Warn message
+[ERROR] 06-06-2017 09:18:02.292 [http-nio-8080-exec-5] TaskController - Error message
+[INFO ] 06-06-2017 09:18:06.935 [http-nio-8080-exec-2] TaskController - Info message
+[WARN ] 06-06-2017 09:18:06.936 [http-nio-8080-exec-2] TaskController - Warn message
+[ERROR] 06-06-2017 09:18:06.936 [http-nio-8080-exec-2] TaskController - Error message
+[INFO ] 06-06-2017 09:18:08.802 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 06-06-2017 09:18:08.802 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 06-06-2017 09:18:08.802 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 06-06-2017 09:18:11.607 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 06-06-2017 09:18:11.607 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 06-06-2017 09:18:11.607 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 06-06-2017 09:19:54.721 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 06-06-2017 09:19:54.721 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 06-06-2017 09:19:54.721 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 06-06-2017 09:19:58.643 [http-nio-8080-exec-10] TaskController - Info message
+[WARN ] 06-06-2017 09:19:58.643 [http-nio-8080-exec-10] TaskController - Warn message
+[ERROR] 06-06-2017 09:19:58.643 [http-nio-8080-exec-10] TaskController - Error message
+[INFO ] 06-06-2017 09:20:00.282 [http-nio-8080-exec-9] TaskController - Info message
+[WARN ] 06-06-2017 09:20:00.282 [http-nio-8080-exec-9] TaskController - Warn message
+[ERROR] 06-06-2017 09:20:00.282 [http-nio-8080-exec-9] TaskController - Error message
+[INFO ] 06-06-2017 09:20:04.261 [http-nio-8080-exec-3] TaskController - Info message
+[WARN ] 06-06-2017 09:20:04.262 [http-nio-8080-exec-3] TaskController - Warn message
+[ERROR] 06-06-2017 09:20:04.262 [http-nio-8080-exec-3] TaskController - Error message
+[INFO ] 06-06-2017 09:20:08.563 [http-nio-8080-exec-6] TaskController - Info message
+[WARN ] 06-06-2017 09:20:08.563 [http-nio-8080-exec-6] TaskController - Warn message
+[ERROR] 06-06-2017 09:20:08.563 [http-nio-8080-exec-6] TaskController - Error message
+[INFO ] 06-06-2017 09:20:57.563 [http-nio-8080-exec-4] TaskController - Info message
+[WARN ] 06-06-2017 09:20:57.563 [http-nio-8080-exec-4] TaskController - Warn message
+[ERROR] 06-06-2017 09:20:57.563 [http-nio-8080-exec-4] TaskController - Error message
+[INFO ] 06-06-2017 09:22:55.767 [http-nio-8080-exec-2] UserController - Info message
+[WARN ] 06-06-2017 09:22:55.767 [http-nio-8080-exec-2] UserController - Warn message
+[ERROR] 06-06-2017 09:22:55.767 [http-nio-8080-exec-2] UserController - Error message
