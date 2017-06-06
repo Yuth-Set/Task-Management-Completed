@@ -6,6 +6,7 @@ And I used MySQL Database as my DB.
 - Custom error page
 - Custom logger using Log4j2
 - CRUD with CrudRepository: "import org.springframework.data.repository.CrudRepository"
+- Custom Spring Boot banner logo
 - Auto generate table in Database 
 <pre>
 
